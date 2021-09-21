@@ -1,1 +1,1 @@
-<h3 style="color:yellow;">React ❣❣❣❣</h3>
+<h3 align:"centre">React ❣❣❣❣</h3>
