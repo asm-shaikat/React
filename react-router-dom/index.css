@@ -1,0 +1,8 @@
+.welcome{
+  background-color: aqua;
+  border: 1px solid black;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 100px;
+  text-align: center;
+}
